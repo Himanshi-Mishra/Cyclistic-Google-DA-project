@@ -6,8 +6,9 @@ In 2016, Cyclistic a bike-share company in Chicago, launched a successful bike-s
 ### Project Description
 - This project aims to Design a new marketing strategy that will encourage more casual riders to become annual members. 
 - The key tasks are:
-   - Marketing strategy for maximizing the number of annual memberships. 
    - Analyze how casual riders and annual members use Cyclistic bikes differently. 
+   - Marketing strategy for maximizing the number of annual memberships. 
+  
 -----
 
 ## Data Sources
